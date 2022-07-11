@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shpyndafe220711/static/css/main.deef0ba6.css",
+    "main.js": "/shpyndafe220711/static/js/main.ad1b5b21.js",
+    "index.html": "/shpyndafe220711/index.html",
+    "main.deef0ba6.css.map": "/shpyndafe220711/static/css/main.deef0ba6.css.map",
+    "main.ad1b5b21.js.map": "/shpyndafe220711/static/js/main.ad1b5b21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deef0ba6.css",
+    "static/js/main.ad1b5b21.js"
+  ]
+}
